@@ -51,7 +51,9 @@ submission-android-developer-dicoding-path-2/app/src/main/res/drawable/
 ## Lain - Lain
 <img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result2.png"
      alt="Sertifikat"
-     style="float: left; margin-right: 10px;"/>
+     style="float: left; margin-right: 10px;"
+     width="600" />
 <img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result.png"
      alt="Hasil Review"
-     style="float: left; margin-right: 10px;"/>
+     style="float: left; margin-right: 10px;"
+     width="350" />
