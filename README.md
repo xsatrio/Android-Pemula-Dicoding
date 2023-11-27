@@ -35,7 +35,7 @@ Saya harap proyek ini bisa dijadikan referensi bagi para pembaca, dan jangan men
 - Clone repository ini dan import ke android studio
 
 ```
-https://github.com/apursan/Dicoding-Submission-Android-Pemula.git
+git clone https://github.com/xsatrio/submission-android-developer-dicoding-path-2.git
 ```
 
 - Tambahkan foto profil kalian untuk menampilkan foto profil di halaman about.
