@@ -47,3 +47,13 @@ git clone https://github.com/xsatrio/submission-android-developer-dicoding-path-
 ```
 submission-android-developer-dicoding-path-2/app/src/main/res/drawable/
 ```
+
+## Lain - Lain
+<img src="[https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/splash.png](https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result2.png)"
+     alt="Sertifikat"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="[https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/main.png](https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result.png)https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result.png"
+     alt="Hasil Review"
+     style="float: left; margin-right: 10px;"
+     width="200" />
