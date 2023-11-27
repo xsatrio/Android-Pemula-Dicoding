@@ -1,0 +1,11 @@
+<resources>
+    <style name="Base.Theme.BocchiTheRock" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/action_bar_color</item>
+        <item name="colorOnBackground">@color/bgmain</item>
+    </style>
+
+    <style name="AppTheme.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/action_bar_color</item>
+        <item name="colorOnBackground">@color/bgmain</item>
+    </style>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:background="?attr/colorPrimary"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageButton
+                android:id="@+id/btnBack"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="top|start"
+                android:background="?attr/selectableItemBackground"
+                android:contentDescription="@string/desc_back"
+                android:onClick="onBackPressed"
+                android:scaleType="centerInside"
+                android:src="@drawable/icon_back"
+                tools:ignore="UsingOnClickInXml,ImageContrastCheck,TouchTargetSizeCheck"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="14dp" />
+
+            <ImageView
+                android:id="@+id/customIcon"
+                android:layout_width="185dp"
+                android:layout_height="60dp"
+                android:layout_gravity="top|center"
+                android:contentDescription="@string/desc_icon"
+                android:rotation="6"
+                android:src="@drawable/ico_toolbar"
+                tools:ignore="ImageContrastCheck"
+                tools:layout_editor_absoluteX="81dp"
+                tools:layout_editor_absoluteY="2dp" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:layout_marginTop="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/myphoto"
+            app:layout_constraintBottom_toBottomOf="@+id/toolbar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/myname"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivProfile" />
+
+        <TextView
+            android:id="@+id/tvEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/myemail"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvName" />
+
+        <TextView
+            android:id="@+id/tvSynopsis"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="24dp"
+            android:text="@string/synop"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvEmail" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
