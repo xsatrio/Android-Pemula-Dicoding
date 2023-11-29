@@ -2,6 +2,8 @@
 
 Saya harap proyek ini bisa dijadikan referensi bagi para pembaca, dan jangan menggunakan proyek ini jika hanya ingin copy paste untuk submission akhir, karena akan terdeteksi otomatis sebagai plagiarisme.
 
+[Klik disini untuk download .apk dari proyek ini.](https://github.com/xsatrio/submission-android-developer-dicoding-path-2/raw/main/app-debug.apk).
+
 ## Fitur
 
 - [x] Menampilkan splash screen.
@@ -49,6 +51,7 @@ submission-android-developer-dicoding-path-2/app/src/main/res/drawable/
 ```
 
 ## Lain - Lain
+
 <img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/result2.png"
      alt="Sertifikat"
      style="float: left; margin-right: 10px;"
