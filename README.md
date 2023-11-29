@@ -2,7 +2,7 @@
 
 Saya harap proyek ini bisa dijadikan referensi bagi para pembaca, dan jangan menggunakan proyek ini jika hanya ingin copy paste untuk submission akhir, karena akan terdeteksi otomatis sebagai plagiarisme.
 
-[Klik disini untuk download .apk dari proyek ini.](https://github.com/xsatrio/submission-android-developer-dicoding-path-2/raw/main/app-debug.apk).
+[Klik disini untuk download .apk dari proyek ini.](https://github.com/xsatrio/submission-android-developer-dicoding-path-2/raw/main/app-debug.apk)
 
 ## Fitur
 
