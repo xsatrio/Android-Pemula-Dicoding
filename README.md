@@ -42,9 +42,9 @@ git clone https://github.com/xsatrio/submission-android-developer-dicoding-path-
 
 - Tambahkan foto profil kalian untuk menampilkan foto profil di halaman about.
 
-- Beri nama file foto kalian dengan nama dan format "profil.png"
+- Beri nama file foto kalian dengan nama dan format "profil.png".
 
-- Letakkan file foto kalian ke direktori berikut
+- Letakkan file foto kalian ke direktori berikut :
 
 ```
 submission-android-developer-dicoding-path-2/app/src/main/res/drawable/
